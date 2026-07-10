@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `env-var-gate_safe.os` — the correct design.
-- `env-var-gate_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `env-var-gate_safe.wave` — the correct design.
+- `env-var-gate_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
